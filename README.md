@@ -77,3 +77,5 @@ Repository Link : https://github.com/MLSC-BSOITR/Web-site
 Maintainer Name : Urvesh Thakkar
 
 Repository Link : https://github.com/GDSC-JSCOE/CyberCodeReview-Hacktoberfest.git
+
+Repository Link : https://github.com/devtayade/Product-Designer-Portfolio-
