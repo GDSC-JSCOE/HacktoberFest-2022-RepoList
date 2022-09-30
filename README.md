@@ -9,7 +9,7 @@ The following is a list of repositories appropriate for hactoberfest submissions
 ### 1. Repository Name : Employment-Oppourtunities
 Maintainer Name : Abhineya Beduru
 
-Repository Link : https://github.com/MLSC-BSOITR/Employment-Opportunities/edit/main/README.md
+Repository Link : https://github.com/MLSC-BSOITR/Employment-Opportunities
 
 ### 2. Repository Name : Books-Collection
 Maintainer Name : Prajakta Landge 
