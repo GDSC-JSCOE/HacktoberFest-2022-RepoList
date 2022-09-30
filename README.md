@@ -1,8 +1,9 @@
 # HacktoberFest-2022 RepoList
 ![contributing](https://github.com/MLSC-BSOITR/.github/blob/acbcd6f0a88514e158ac20eeee815746ec9df32d/profile/WhatsApp%20Image%202022-09-27%20at%2012.17.09%20AM.jpeg)
 The following is a list of repositories appropriate for hactoberfest submissions. 
-## These are maintained by active maintainers and moderators from MLSC BSIOTR and GDSC JSCOE.  
- We're eagerly awaiting your pull requests.
+#### These are maintained by active maintainers and moderators from MLSC BSIOTR and GDSC JSCOE.  
+#### We're eagerly awaiting your pull requests.
+
 
 
 ## Beginner Level
