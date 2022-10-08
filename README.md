@@ -28,17 +28,12 @@ Maintainer Name :  Ashutosh Thakur
 
 Repository Link : https://github.com/MLSC-BSOITR/Blog-List
 
-### 5. Repository Name : hactoberfest-web
-Maintainer Name : Abhange Vishal
-
-Repository Link : https://github.com/MLSC-BSOITR/hactoberfest-web
-
-### 6. Repository Name : Interview_Questions
+### 5. Repository Name : Interview_Questions
 Maintainer Name : Jasmine Chourasiya 
 
 Repository Link : https://github.com/GDSC-JSCOE/Interview_Questions.git 
 
-### 7. Repository Name : CyberSecurity-Hacktober2022
+### 6. Repository Name : CyberSecurity-Hacktober2022
 Maintainer Name : Preshita Dighe
 
 Repository Link : https://github.com/GDSC-JSCOE/CyberSecurity-Hacktober2022.git
